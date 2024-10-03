@@ -1,0 +1,6 @@
+# Ignore Python environment
+nafirs-venv/
+
+# Ignore CSV and TXT files
+*.csv
+*.txt
